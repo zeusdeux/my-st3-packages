@@ -1,0 +1,23 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"ColorPicker",
+		"DocBlockr",
+		"EJS",
+		"Emmet",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"Markdown Preview",
+		"Sass",
+		"SASS Build",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"Tag",
+		"Theme - Soda"
+	]
+}
